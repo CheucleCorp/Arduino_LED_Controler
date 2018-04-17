@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino_Control_LED", "Arduino_Control_LED\Arduino_Control_LED.csproj", "{811DFD5D-1B8F-4F4C-B03C-C7D01F4F7A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811DFD5D-1B8F-4F4C-B03C-C7D01F4F7A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811DFD5D-1B8F-4F4C-B03C-C7D01F4F7A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811DFD5D-1B8F-4F4C-B03C-C7D01F4F7A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811DFD5D-1B8F-4F4C-B03C-C7D01F4F7A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277E628D-B7CB-48E0-A088-5CB013E2F4C9}
+	EndGlobalSection
+EndGlobal
